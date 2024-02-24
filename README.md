@@ -1,5 +1,6 @@
 # PDFaud
-Bu scriptle Turkce PDF kitaplari sesli kitap haline getirebilirsiniz.
+Bu scriptle Turkce PDF kitaplari sesli kitap haline getirebilirsiniz. Bu Projenin ortaya cikis amaci oncelikli olarak gorme engelli kardeslerimizdir. PDF kutuphanenizden sectiginiz kitaplari sesli kitap haline getirmenize ve 
+gorme engelli kardeslerimizin egitim ve kulturune katkida bulunmaniza olanak tanir.
 # PDF to Audio Converter
 
 Bu basit Python betiği, bir PDF dosyasındaki metni ses dosyalarına dönüştürmek ve isteğe bağlı olarak bu ses dosyalarını birleştirmek için kullanılır.
